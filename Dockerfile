@@ -27,6 +27,7 @@ RUN \
  apt-get install -y \
 	udev \
 	unrar \
+	curl \
 	wget \
 	jq && \
  echo "**** Udevadm hack ****" && \
